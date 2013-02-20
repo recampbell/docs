@@ -81,6 +81,11 @@ Detailed reference materials.
 Extensions, tools and services provided by the Cloud Foundry community and partners.
 
   * [Technical Integration](docs/community/integration/index.html)
-  * [Hosting providers](docs/community/hosting-providers.html)
+    * [CloudBees DEV@cloud](docs/community/integration/cloudbees/index.html)
+
+  * [Hosting Providers](docs/community/hosting-providers.html)
+
   * [Consulting](docs/community/consulting.html)
-  * [Contrib](docs/community/contrib.html)
+
+  * [Contributions](docs/community/contrib.html)
+
